@@ -15,7 +15,7 @@ namespace Exercicio_1_e_2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (radioButton1.Checked)
+            if (radioButton1.Checked) 
             {
                 textBox1.Text = "Bem vindo ao C#!";
             }
